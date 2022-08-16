@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    display: flex;
+}
+
+#color-div {
+    width: 100px;
+    height: 200px;
+}
